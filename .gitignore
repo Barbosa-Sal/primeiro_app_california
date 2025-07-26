@@ -1,6 +1,7 @@
 # Este projeto
 /dados/
 *.ipynb
+*.excalidraw
 
 # Mac OS-specific storage files
 .DS_Store
@@ -13,7 +14,6 @@
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
-*.py[cod]
 *$py.class
 
 # C extensions
